@@ -1,0 +1,76 @@
+{
+	"products": [
+		{
+			"id": 0,
+			"image": "https://salt.tikicdn.com/cache/280x280/ts/product/00/47/df/b02b462394bc3c59e5876ec0d9cb6ae8.jpg",
+			"name": "Máy Ảnh Canon 750D + Lens 18-55 IS STM (Lê Bảo Minh)",
+			"oldPrice": 17500000,
+			"newPrice": 11690000,
+		},	
+		{
+			"id": 1,
+			"image": "https://salt.tikicdn.com/cache/280x280/ts/product/72/ab/a5/0f0627ece66325d2af2d0f147294edbc.jpg",
+			"name": "Smart Tivi Samsung 55 inch UHD 4K",
+			"oldPrice": 24900000,
+			"newPrice": 12390000,
+		},	
+		{
+			"id": 2,
+			"image": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/1/4/1444710130000_img_539692.jpg",
+			"name": "Canon M10 KIT 15-45mm",
+			"oldPrice": 10500000,
+			"newPrice": 5900000,
+		},	
+		{
+			"id": 3,
+			"image": "https://salt.tikicdn.com/cache/280x280/ts/product/af/b8/64/25bb08a319606fa48068b520fa5a3786.jpg",
+			"name": "Máy Lạnh Inverter",
+			"oldPrice": 11600000,
+			"newPrice": 7950000,
+		},	
+		{
+			"id": 4,
+			"image": "https://salt.tikicdn.com/cache/280x280/ts/product/9d/01/17/64ba40cd094e3369eada1b331daa84c3.jpg",
+			"name": "Smart Tivi LG 55 Inch 4K UHD",
+			"oldPrice": 21490000,
+			"newPrice": 11990000,
+		},	
+		{
+			"id": 5,
+			"image": "https://salt.tikicdn.com/cache/280x280/ts/product/aa/98/2e/774beda1d92d053736acf40501fa8430.jpg",
+			"name": "Máy Lạnh Inverter Sharp",
+			"oldPrice": 9590000,
+			"newPrice": 6090000,
+		},	
+		{
+			"id": 6,
+			"image": "https://salt.tikicdn.com/cache/280x280/ts/product/fa/8f/78/507ffdb1aa789c0c045d92b59a96ac5f.jpg",
+			"name": "Combo 3 Gói Tã Quần Bobby Gói Cực Đại",
+			"oldPrice": 969000,
+			"newPrice": 749000,
+		},	
+
+		{
+			"id": 7,
+			"image": "https://salt.tikicdn.com/cache/280x280/ts/product/c8/f8/4b/2bea0bb389be181bda9b90966251f880.jpg",
+			"name": "Smart Tivi OLED 55 Inch 4K UHD",
+			"oldPrice": 54900000,
+			"newPrice": 29900000,
+		},	
+		{
+			"id": 8,
+			"image": "https://salt.tikicdn.com/cache/280x280/ts/product/65/af/4a/7e9fbfeb44a9cb39e96a180ba4f1caca.jpg",
+			"name": "Điện thoại Iphone XS Max 64GB - Hàng Chính Hãng",
+			"oldPrice": 33990000,
+			"newPrice": 28790000,
+		},	
+		{
+			"id": 9,
+			"image": "https://salt.tikicdn.com/cache/280x280/ts/product/9a/28/28/15160e15464d1332fa0470a6d9bf513c.jpg",
+			"name": "Máy Ảnh Canon EOS M50",
+			"oldPrice": 19990000,
+			"newPrice": 12990000,
+		},	
+		
+	]
+}

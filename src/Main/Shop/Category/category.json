@@ -1,0 +1,89 @@
+{ 
+	"data": [
+		{
+			"id": 0,
+			"title": "Nhà Sách Tiki",
+			"image": "https://salt.tikicdn.com/ts/category/ad/98/f2/aa2cde38443c6a9ca87a0a9f0bae1650.jpg"
+		},
+		{
+			"id": 1,
+			"title": "Đồ Chơi - Mẹ & Bé",
+			"image": "https://salt.tikicdn.com/ts/category/c5/12/85/613643e5a71db1321ee60bc350b4f446.jpg"
+		},
+		{
+			"id": 2,
+			"title": "Hàng Quốc Tế",
+			"image": "https://salt.tikicdn.com/ts/category/b3/e5/eb/a9b426e40b72debd2b350565b82e089f.jpg"
+		},
+		{
+			"id": 3,
+			"title": "Bách Hóa Online",
+			"image": "https://salt.tikicdn.com/ts/category/2c/81/8a/dc54972b237ab14976541b4bb65195a3.jpg"
+		},
+		{
+			"id": 4,
+			"title": "Làm Đẹp - Sức Khỏe",
+			"image": "https://salt.tikicdn.com/ts/category/98/e0/78/228bfc907d8592ccac310164f3c72293.jpg"
+		},
+		{
+			"id": 5,
+			"title": "Điện Gia Dụng",
+			"image": "https://salt.tikicdn.com/ts/category/33/74/bd/f42546f442a69fa73480825978a9c402.jpg"
+		},
+		{
+			"id": 6,
+			"title": "Ô Tô - Xe Máy - Xe Đạp",
+			"image": "https://salt.tikicdn.com/ts/category/03/d9/17/3ee92463dcd0ccf29d73db93a42804bf.jpg"
+		},
+		{
+			"id": 7,
+			"title": "Voucher - Dịch Vụ",
+			"image": "https://salt.tikicdn.com/ts/category/48/af/64/05a8dabbad2f952d8900b6d5d071b773.jpg"
+		},
+		{
+			"id": 8,
+			"title": "Thể Thao - Dã Ngoại",
+			"image": "https://salt.tikicdn.com/ts/category/a1/e3/b4/08650dd59fa84c3042c66d1d1f44541b.png"
+		},
+		{
+			"id": 9,
+			"title": "Laptop",
+			"image": "https://salt.tikicdn.com/ts/category/ca/31/85/f6ab39a17acbd7c86b45034bde39845e.jpg"
+		},
+		{
+			"id": 10,
+			"title": "Nhà Cửa - Đời Sống",
+			"image": "https://salt.tikicdn.com/ts/category/59/2b/c7/26295b9cef7cded013802de0d0dc4af5.jpg"
+		},
+		{
+			"id": 11,
+			"title": "Điện Tử - Điện Lạnh",
+			"image": "https://salt.tikicdn.com/ts/category/da/40/0a/236a55a6bdb55f22462a53704d4f4c03.png"
+		},
+		{
+			"id": 12,
+			"title": "Điện Thoại - Máy Tính Bảng",
+			"image": "https://salt.tikicdn.com/ts/category/e2/0d/ee/ffdc9f7cfef1f648f6d3b73faa038380.jpg"
+		},
+		{
+			"id": 13,
+			"title": "Máy Ảnh - Máy Quay Phim",
+			"image": "https://salt.tikicdn.com/ts/category/ca/31/85/f6ab39a17acbd7c86b45034bde39845e.jpg"
+		},
+		{
+			"id": 14,
+			"title": "Laptop - Máy Vi Tính - Linh Kiện",
+			"image": "https://salt.tikicdn.com/ts/category/f4/da/a3/a2c3b53545ea509e759811ccabd1a056.png"
+		},
+		{
+			"id": 15,
+			"title": "Thiết Bị Số - Phụ Kiện Số",
+			"image": "https://salt.tikicdn.com/ts/category/ba/42/e4/daa93f3270b61a03c494ca3118770fbd.jpg"
+		},
+		{
+			"id": 16,
+			"title": "Thời Trang",
+			"image": "https://salt.tikicdn.com/ts/category/29/36/f2/96e0343c67b1c7092010e17f83f33ad7.jpg"
+		}
+	]
+}
